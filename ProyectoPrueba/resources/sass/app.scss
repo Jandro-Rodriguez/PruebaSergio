@@ -6,3 +6,35 @@
 
 // Bootstrap
 @import 'bootstrap/scss/bootstrap';
+
+.parent{
+    display: grid;
+    width: 100%;
+    grid-template-areas: 
+    "head head"
+    "men contenido"
+    "foot foot";
+}
+
+header{
+    grid-area: head;
+    background-color: aqua;
+}
+
+.menu{
+
+    grid-area: men;
+    background-color: blueviolet;
+}
+
+.content{
+    grid-area: contenido;
+    background-color: yellow;
+
+}
+
+footer{
+
+    grid-area: foot;
+    background-color: brown;
+}
