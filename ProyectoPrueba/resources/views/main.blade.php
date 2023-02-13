@@ -26,6 +26,10 @@
         <p>
             Lorem ipsum, dolor sit amet consectetur adipisicing elit. Veniam distinctio possimus velit! Nemo tenetur asperiores reiciendis iusto, numquam nam delectus itaque perspiciatis eveniet in quibusdam dolores recusandae sit sequi? Consectetur!
         </p>
+
+        <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab reprehenderit neque laudantium reiciendis velit aspernatur. Repellendus ratione autem iure laborum molestiae vitae eius deleniti perspiciatis. Perspiciatis rem voluptatibus rerum cupiditate.
+        </p>
     </div>
 
     <footer>Somos el equipo de folletis</footer>
